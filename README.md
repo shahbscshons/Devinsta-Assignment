@@ -1,3 +1,26 @@
+# Devinsta Assignment
+
+This project is a Laravel-based dashboard that fetches and displays data from multiple social media platforms such as Google Analytics, Microsoft Clarity, Facebook, Instagram, and Snapchat in the form of pie charts.
+
+## Features
+
+- **Google Analytics**: Displays website traffic data.
+- **Microsoft Clarity**: Displays user engagement data.
+- **Facebook**: Displays Facebook visitor data.
+- **Instagram**: Displays Instagram visitor data.
+- **Snapchat**: Displays Snapchat visitor data.
+
+## Setup Instructions
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/devinsta-assignment.git
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
